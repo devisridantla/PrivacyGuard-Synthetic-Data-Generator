@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # PrivacyGuard – Synthetic Data Generator
 
 > **Privacy-Preserving AI-Powered Synthetic Data Platform**  
@@ -106,5 +107,8 @@ All identities, names, roll numbers, telephone numbers, emails, and residential 
 
 =======
 # PrivacyGuard-Synthetic-Dayta-Generator
+=======
+# PrivacyGuard-Synthetic-Data-Generator
+>>>>>>> origin/main
 AI-Powered Privacy-Safe Synthetic Data Generator
 >>>>>>> dd1b733e09c892ba8f6771fc70935a6699a1b348
